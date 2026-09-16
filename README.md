@@ -14,7 +14,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 ## 🎯 Foco Didático: Operadores Lógicos
 
-Para atender às regras propostas pela companhia de saneamento, o script utiliza de forma clara os três operadores lógicos essenciais:
+Para atender às regras de negócio propostas pela companhia de saneamento, o script utiliza de forma clara os três operadores lógicos essenciais:
 
 *   **`and` (E):** Utilizado para validar se o imóvel é um apartamento **E** se o consumo está na faixa econômica (menor que 10 m³).
 *   **`or` (OU):** Aplicado para permitir caminhos alternativos de validação residencial, aceitando que o imóvel seja uma casa **OU** um apartamento.
