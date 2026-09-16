@@ -1,6 +1,6 @@
  # 💧 Monitor de Consumo de Água - Conscientização Ambiental
 
-> Aplicativo prático em Python desenvolvido com base numa hipotética campanha de saneamento de uma cidade para a conscientização ambiental. O sistema atua na classificação de perfis de consumo imobiliário e na emissão de alertas educativos para moradores.
+> Solução computacional desenvolvida em Python fundamentada em um cenário hipotético de gestão de saneamento urbano, voltada à sensibilização e educação ambiental. O sistema atua na classificação de perfis de consumo imobiliário e na emissão de alertas educativos para moradores.
 
 ---
 
