@@ -1,6 +1,6 @@
  # 💧 Monitor de Consumo de Água - Conscientização Ambiental
 
-> Aplicativo prático em Python desenvolvido com base nos conceitos da **Agenda 7 (Estrutura de Decisão II)**. O sistema atua na classificação de perfis de consumo imobiliário e na emissão de alertas educativos para moradores.
+> Aplicativo prático em Python desenvolvido com base numa hipotética campanha de saneamento de uma cidade para a conscientização ambiental. O sistema atua na classificação de perfis de consumo imobiliário e na emissão de alertas educativos para moradores.
 
 ---
 
