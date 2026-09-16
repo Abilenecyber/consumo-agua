@@ -4,11 +4,9 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias Utilizadas
 
-*   **Linguagem:** 🐍 Python 3.x
-*   **Plataforma:** 🐙 GitHub
-*   **Tema:** 🌱 Sustentabilidade & Conscientização Ambiental
+- **Python 3** 
 
 ---
 
