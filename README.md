@@ -39,8 +39,3 @@ Você precisa ter o **Python 3.x** instalado no computador.
    python app.py
    ```
 
----
-
-## 🧑‍💻 Autor
-
-*   **Desenvolvimento Acadêmico** - *Curso Técnico em Desenvolvimento de Sistemas (DS I)*.cd ..
