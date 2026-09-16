@@ -4,14 +4,6 @@
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-<div style="display: inline_block"><br> 
-<img align="center" alt="Python" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-
----
-
 ## 🎯 Foco Didático: Operadores Lógicos
 
 Para atender às regras de negócio propostas pela companhia de saneamento, o script utiliza de forma clara os três operadores lógicos essenciais:
