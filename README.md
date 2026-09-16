@@ -1,37 +1,40 @@
-# 💧 Monitor de Consumo de Água - Conscientização Ambiental
+ # 💧 Monitor de Consumo de Água - Conscientização Ambiental
 
-> Sistema inteligente desenvolvido para a companhia de saneamento local com o objetivo de classificar perfis de consumo imobiliário e emitir alertas educativos automáticos aos moradores.
+> Aplicativo prático em Python desenvolvido com base nos conceitos da **Agenda 7 (Estrutura de Decisão II)**. O sistema atua na classificação de perfis de consumo imobiliário e na emissão de alertas educativos para moradores.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://shields.io)
-![GitHub](https://shields.io)
-![Meio Ambiente](https://shields.io)
+*   **Linguagem:** 🐍 Python 3.x
+*   **Plataforma:** 🐙 GitHub
+*   **Tema:** 🌱 Sustentabilidade & Conscientização Ambiental
 
 ---
 
-## 📋 Regras de Negócio e Classificação
+## 🎯 Foco Didático: Operadores Lógicos
 
-O script analisa o tipo de edificação e a faixa de consumo em metros cúbicos ($m^3$) com base nos seguintes critérios:
+Para atender às regras de negócio propostas pela companhia de saneamento, o script utiliza de forma clara os três operadores lógicos essenciais:
 
-*   **Comercial:** Emissão automática de diretrizes corporativas.
-*   **Apartamento (< 10m³):** Alerta de consumo econômico de alta eficiência.
-*   **Residencial (Até 25m³):** Classificação de consumo moderado padrão.
-*   **Excedente:** Alerta de consumo excessivo com recomendação de varredura de vazamentos.
+*   **`and` (E):** Utilizado para validar se o imóvel é um apartamento **E** se o consumo está na faixa econômica (menor que 10 m³).
+*   **`or` (OU):** Aplicado para permitir caminhos alternativos de validação residencial, aceitando que o imóvel seja uma casa **OU** um apartamento.
+*   **`not` (NÃO):** Inserido como um filtro extra de segurança, garantindo de forma limpa que a regra residencial **NÃO** seja executada caso o imóvel seja comercial.
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Programa
 
 ### Pré-requisitos
-Certifique-se de possuir o **Python 3.x** instalado em seu sistema operacional.
+Você precisa ter o **Python 3.x** instalado no computador.
 
-### Passo a Passo
+### Passo a Passo no Terminal
 
-1. **Abra o terminal** na pasta do projeto.
-2. **Execute o script principal:**
+1. **Navegue até a subpasta do projeto:**
+   ```bash
+   cd consumo-agua
+   ```
+
+2. **Execute o script:**
    ```bash
    python app.py
    ```
@@ -39,3 +42,5 @@ Certifique-se de possuir o **Python 3.x** instalado em seu sistema operacional.
 ---
 
 ## 🧑‍💻 Autor
+
+*   **Desenvolvimento Acadêmico** - *Curso Técnico em Desenvolvimento de Sistemas (DS I)*.cd ..
