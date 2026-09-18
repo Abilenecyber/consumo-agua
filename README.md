@@ -5,10 +5,10 @@
 ---
 ##  🎯  Objetivo
 Implementar a classificação de acordo com as seguintes regras de negócio: 
-Se o tipo for "comercial", exibir: "Tarifa comercial aplicada – consulte o plano corporativo."
-Se o tipo for "apartamento" e o consumo for menor que 10 𝑚3 , exibir: "Consumo econômico – excelente controle de água!"
-Se o tipo for "apartamento" ou for "casa" com consumo de até 25 𝑚3 , exibir: "Consumo moderado – dentro do padrão residencial."
-Em qualquer outro caso (consumo acima do limite residencial), exibir: "Consumo excessivo – adote medidas de economia e verifique vazamentos.
+> Se o tipo for "comercial", exibir: "Tarifa comercial aplicada – consulte o plano corporativo."
+>Se o tipo for "apartamento" e o consumo for menor que 10 m<sup>3</sup>, exibir: "Consumo econômico – excelente controle de água!"
+>Se o tipo for "apartamento" ou for "casa" com consumo de até 25 m<sup>3</sup>, exibir: "Consumo moderado – dentro do padrão residencial."
+>Em qualquer outro caso (consumo acima do limite residencial), exibir: "Consumo excessivo – adote medidas de economia e verifique vazamentos.
 
 ---
 
