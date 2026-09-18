@@ -3,6 +3,15 @@
 > Solução computacional desenvolvida em Python fundamentada em um cenário hipotético de gestão de saneamento urbano, voltada à sensibilização e educação ambiental. O sistema atua na classificação de perfis de consumo imobiliário e na emissão de alertas educativos para moradores.
 
 ---
+##  🎯  Objetivo
+Implementar a classificação de acordo com as seguintes regras de negócio: 
+Se o tipo for "comercial", exibir: "Tarifa comercial aplicada – consulte o plano corporativo."
+Se o tipo for "apartamento" e o consumo for menor que 10 𝑚3 , exibir: "Consumo econômico – excelente controle de água!"
+Se o tipo for "apartamento" ou for "casa" com consumo de até 25 𝑚3 , exibir: "Consumo moderado – dentro do padrão residencial."
+Em qualquer outro caso (consumo acima do limite residencial), exibir: "Consumo excessivo – adote medidas de economia e verifique vazamentos.
+
+---
+
 ## 🛠️ Linguagem Usada
 
 
