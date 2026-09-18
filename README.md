@@ -10,6 +10,7 @@ Para o desenvolvimento e hospedagem deste projeto, foram utilizadas as seguintes
 <div style="display: inline_block"><br> 
 <img align="center" alt="Python" height="40" width="40" 
 </div>
+
 ---
 
 ## 🎯 Foco Didático: Operadores Lógicos
