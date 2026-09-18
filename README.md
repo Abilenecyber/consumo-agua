@@ -3,6 +3,15 @@
 > Solução computacional desenvolvida em Python fundamentada em um cenário hipotético de gestão de saneamento urbano, voltada à sensibilização e educação ambiental. O sistema atua na classificação de perfis de consumo imobiliário e na emissão de alertas educativos para moradores.
 
 ---
+## 🛠️ Tecnologias e Linguagens Utilizadas
+
+| Tecnologia | Descrição | Badge |
+| :--- | :--- | :--- |
+| **Python** | Linguagem principal do projeto | ![Python](https://shields.io) |
+| **GitHub** | Hospedagem do código e controle de versão | ![GitHub](https://shields.io) |
+| **Markdown** | Documentação e formatação do README | ![Markdown](https://shields.io) |
+
+---
 
 ## 🎯 Foco Didático: Operadores Lógicos
 
