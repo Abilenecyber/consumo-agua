@@ -7,9 +7,9 @@
 
 | Tecnologia | Descrição | Badge |
 | :--- | :--- | :--- |
-| **Python** | Linguagem principal do projeto | ![Python](https://shields.io) |
-| **GitHub** | Hospedagem do código e controle de versão | ![GitHub](https://shields.io) |
-| **Markdown** | Documentação e formatação do README | ![Markdown](https://shields.io) |
+| **Python** | Linguagem principal do projeto | <img src="https://shields.io" alt="Python"> |
+| **GitHub** | Hospedagem do código e controle de versão | <img src="https://shields.io" alt="GitHub"> |
+| **Markdown** | Documentação e formatação do README | <img src="https://shields.io" alt="Markdown"> |
 
 ---
 
