@@ -7,7 +7,8 @@
 
 | Tecnologia | Descrição | Badge |
 | :--- | :--- | :--- |
-| **Python** | Linguagem principal do projeto | <img src="https://shields.io" alt="Python"> |
+| **Python** | Linguagem principal do projeto | <img align="center" alt="Python" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> | 
 | **GitHub** | Hospedagem do código e controle de versão | <img src="https://shields.io" alt="GitHub"> |
 | **Markdown** | Documentação e formatação do README | <img src="https://shields.io" alt="Markdown"> |
 
